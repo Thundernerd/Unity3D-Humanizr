@@ -1,0 +1,22 @@
+{
+  "name": "net.tnrd.humanizr",
+  "displayName": "Humanizr",
+  "version": "2.8.26",
+  "unity": "2019.1",
+  "description": "Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.",
+  "keywords": [
+    "localization",
+    "human",
+    "translation",
+    "help",
+    "helper"
+  ],
+  "author": {
+    "name": "Christiaan Bloemendaal",
+    "email": "unity3d@tnrd.net",
+    "url": "https://www.tnrd.net"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "2.0.0"
+  }
+}
