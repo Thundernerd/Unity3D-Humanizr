@@ -1,0 +1,14 @@
+﻿{
+  "DateHumanize_SingleSecondAgo": "sekuntti sitten",
+  "DateHumanize_MultipleSecondsAgo": "{0} sekuntia sitten",
+  "DateHumanize_SingleMinuteAgo": "minuutti sitten",
+  "DateHumanize_MultipleMinutesAgo": "{0} minuuttia sitten",
+  "DateHumanize_SingleHourAgo": "tunti sitten",
+  "DateHumanize_MultipleHoursAgo": "{0} tuntia sitten",
+  "DateHumanize_SingleDayAgo": "eilen",
+  "DateHumanize_MultipleDaysAgo": "{0} päivää sitten",
+  "DateHumanize_SingleMonthAgo": "kuukausi sitten",
+  "DateHumanize_MultipleMonthsAgo": "{0} kuukautta sitten",
+  "DateHumanize_SingleYearAgo": "vuosi sitten",
+  "DateHumanize_MultipleYearsAgo": "{0} vuotta sitten"
+}
