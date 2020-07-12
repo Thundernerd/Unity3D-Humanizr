@@ -54,7 +54,7 @@ openupm add net.tnrd.humanizr
 ```
 2. You can also install via git url by adding these entries in your **manifest.json**
 ```json
-"net.tnrd.humanizr": "https://github.com/Thundernerd/Unity3D-LayersTagsGenerator.git",
+"net.tnrd.humanizr": "https://github.com/Thundernerd/Unity3D-Humanizr.git",
 "com.unity.nuget.newtonsoft-json": "2.0.0"
 ```
 
