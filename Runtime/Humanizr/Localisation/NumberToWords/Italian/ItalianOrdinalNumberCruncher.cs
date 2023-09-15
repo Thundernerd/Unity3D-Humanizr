@@ -83,6 +83,10 @@
                     words += 'l';
                 }
 
+                  if((_fullNumber % 100 == 13) ||( _fullNumber %100 == 16)){
+                    words = words.Remove(words.Length - 1);
+                }
+
                 // append common ordinal suffix
                 words += "esim" + _genderSuffix;
             }
