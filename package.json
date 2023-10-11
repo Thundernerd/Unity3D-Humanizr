@@ -1,7 +1,7 @@
 {
   "name": "net.tnrd.humanizr",
   "displayName": "Humanizr",
-  "version": "2.8.27",
+  "version": "2.8.28",
   "unity": "2019.1",
   "description": "Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.",
   "keywords": [
